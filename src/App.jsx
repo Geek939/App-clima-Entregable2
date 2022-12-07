@@ -62,7 +62,7 @@ function App() {
         isCelsius={isCelsius}
         />
         ):<div className="flex items-center justify-center h-screen w-screen">
-          <p><span className="font-medium text-2xl">Loading</span><img className='h-12 w-12 animate-spin mt-5' src="./src/icons/spiner.svg" alt="spiner"/></p>
+          <p><span className="font-medium text-2xl">Loading</span><img className='h-12 w-12 animate-spin mt-5' src="https://www.svgrepo.com/show/48804/spinner-of-dots.svg" alt="spiner"/></p>
           </div>
       }
     </div>
